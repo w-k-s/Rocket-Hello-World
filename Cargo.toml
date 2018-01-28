@@ -1,0 +1,8 @@
+[package]
+name = "rocket-app"
+version = "0.1.0"
+authors = ["Waqqas Sheikh <waqqas.abdulkareem@gmail.com>"]
+
+[dependencies]
+rocket = "0.3.6"
+rocket_codegen = "0.3.6"
